@@ -1,0 +1,19 @@
+.my-hm-img{
+    width: 300px;
+}
+.title{
+font-size: 35px;
+text-align: center;
+transition: 300ms;
+}
+.title:hover{
+font-size: 45px;
+text-align: center;
+color: gray;
+}
+.list{
+display: flex;
+gap: 20px;
+justify-content: center;
+list-style: none;
+}
