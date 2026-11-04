@@ -1,5 +1,10 @@
 .my-hm-img{
     width: 300px;
+    transition: 1000ms;
+    position: relative;
+}
+.my-hm-img:hover{
+width: 700px;
 }
 .title{
 font-size: 35px;
